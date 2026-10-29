@@ -1,4 +1,8 @@
-## Hi there 👋
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=1&pause=999999&color=FFA500&repeat=false&width=800&height=75&lines=Welcome!+I'm+Josh" />
+</picture>
+
+This GitHub repository is a collection of some of the personal learning and exploratory projects I have taken on over the course of my computer science education. Feel free to take a look around!
 
 <!--
 **ayebiyi2007/ayebiyi2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
